@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm **Bluke93**, a **Fullstack Developer** with over **10 years of experience** in web development.
+I'm **Luca**, a **Fullstack Developer** with over **10 years of experience** in web development.
 
 ## 💼 Work Profile
 Currently working **[@starkfuture]** as a **Lead Frontend Developer**. My primary stack includes:
